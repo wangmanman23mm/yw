@@ -1,0 +1,126 @@
+.cent1 {
+  width: 100%;
+  height: 600px;
+  background: #fdfdfd;
+}
+.cent1 > p {
+  width: 1200px;
+  margin: 0 auto;
+  padding-top: 40px;
+  font-size: 34px;
+  color: #ff000e;
+  text-align: center;
+}
+.cent1 > p > span {
+  color: #333;
+  padding-left: 20px;
+}
+.cent1 .cont-all {
+  width: 1200px;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+.cent1 .cont-all .contleft {
+  width: 580px;
+  text-align: left;
+}
+.cent1 .cont-all .contleft .cont-title {
+  font-size: 24px;
+  color: #FF000E;
+}
+.cent1 .cont-all .contleft > span {
+  display: inline-block;
+  width: 100%;
+  font-size: 19px;
+  color: #333;
+}
+.cent1 .cont-all .contleft .mianfyy {
+  display: block;
+  border-radius: 10px;
+  width: 190px;
+  height: 60px;
+  background: #ff000e;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  line-height: 60px;
+  cursor: pointer;
+}
+.cent2 {
+  width: 100%;
+  height: 760px;
+}
+.cent2 > p {
+  width: 1200px;
+  margin: 0 auto;
+  padding-top: 40px;
+  font-size: 34px;
+  color: #ff000e;
+  text-align: center;
+}
+.cent2 > p > span {
+  color: #333;
+  padding-left: 20px;
+}
+.cent2 .one-four-ys {
+  width: 1200px;
+  height: 450px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.cent2 .one-four-ys .col33 {
+  width: 400px;
+  height: 450px;
+  float: left;
+}
+.cent2 .one-four-ys .four-ys {
+  width: 320px;
+  height: 200px;
+  float: left;
+  margin-left: 40px;
+  display: inline-block;
+}
+.cent2 .one-four-ys .four-ys span:nth-child(1) {
+  width: 70px;
+  height: 85px;
+  font-size: 60px;
+  color: #ccc;
+  float: left;
+}
+.cent2 .one-four-ys .four-ys span:nth-child(2) {
+  font-size: 24px;
+  display: inline-block;
+  float: left;
+  width: 250px;
+  height: 85px;
+  line-height: 85px;
+  text-align: left;
+}
+.cent2 .one-four-ys .four-ys span:nth-child(3) {
+  display: inline-block;
+  width: 250px;
+  height: 115px;
+  font-size: 16px;
+  float: right;
+}
+.cent2 .one-four-ys .four-ys .col33 {
+  width: 400px;
+  height: 450px;
+  float: left;
+}
+.cent2 .yu2 {
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.cent2 .mianfyy {
+  display: block;
+  border-radius: 10px;
+  width: 190px;
+  height: 60px;
+  background: #ff000e;
+  color: #fff;
+  font-size: 20px;
+  text-align: center;
+  line-height: 60px;
+  cursor: pointer;
+}
